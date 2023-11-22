@@ -282,6 +282,8 @@ input:-webkit-autofill:focus {
 
 .navbar-brand.white {
     display: block;
+    font-size: 30px;
+    font-weight:800;
 }
 
 .is-sticky .navbar-brand.white {
@@ -1595,7 +1597,7 @@ option {
 ----------------------------*/
 
 .home-three .promotion-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/promotions/home_three_promotions_area_bg_1.jpg") no-repeat fixed 0 0 / cover;
+    background: rgba(0, 0, 0, 0) url("img/promotions/IMG_2493.JPG") no-repeat fixed 0 0 / cover;
 }
 
 .home-three .promotions-area .area-title h3::after {
